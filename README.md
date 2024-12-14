@@ -13,7 +13,7 @@ Help menu:
 ```
 usage: main.py [-h] -u TARGET [-a UAGENT]
 
-TikStalker is a Python script is developed to automate the process of extracting public information from TikTok accounts.
+TikStalker is a Python script developed to automate the process of extracting public information from TikTok accounts.
 
 options:
   -h, --help            show this help message and exit
